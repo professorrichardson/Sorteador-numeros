@@ -1,0 +1,2 @@
+# Sorteador-numeros
+Algoritmo Simples 
